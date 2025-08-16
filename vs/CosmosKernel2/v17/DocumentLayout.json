@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\philb\\source\\repos\\CosmosKernel2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64644975-7B03-4F71-846E-9A6BF8166F14}|CosmosKernel2\\CosmosKernel2.csproj|c:\\users\\philb\\source\\repos\\cosmoskernel2\\cosmoskernel2\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64644975-7B03-4F71-846E-9A6BF8166F14}|CosmosKernel2\\CosmosKernel2.csproj|solutionrelative:cosmoskernel2\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\philb\\source\\repos\\CosmosKernel2\\CosmosKernel2\\Kernel.cs",
+              "RelativeDocumentMoniker": "CosmosKernel2\\Kernel.cs",
+              "ToolTip": "C:\\Users\\philb\\source\\repos\\CosmosKernel2\\CosmosKernel2\\Kernel.cs",
+              "RelativeToolTip": "CosmosKernel2\\Kernel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:39:19.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
