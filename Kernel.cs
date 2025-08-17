@@ -30,7 +30,10 @@ namespace GraphicTest
         protected override void BeforeRun()
         {
             // If all works correctly you should not really see this :-)
-            Console.WriteLine("Alkon booted successfully. Let's go in Graphical Mode");
+            Console.WriteLine("Cosmos booted successfully. Let's go in Graphical Mode");
+
+            
+
             /*
             You don't have to specify the Mode, but here we do to show that you can.
             To not specify the Mode and pick the best one, use:
@@ -47,9 +50,9 @@ namespace GraphicTest
 
         protected override void Run()
         {
-            
-            try
-            {
+
+            try { 
+       
                 // A bitmap
                 canvas.DrawImage(bitmap, 0, 0);
                 canvas.Display(); // Required for something to be displayed when using a double buffered driver
@@ -64,4 +67,3 @@ namespace GraphicTest
         }
     }
 }
-
